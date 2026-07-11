@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://24pullrequests.com/api
 common:
+  - type: DomainSecurity
+    url: security/24-pull-requests-domain-security.yml
   - type: Website
     url: https://24pullrequests.com/api
   - type: PublicAPIsListing
