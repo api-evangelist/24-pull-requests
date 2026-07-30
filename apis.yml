@@ -1,4 +1,16 @@
 aid: 24-pull-requests
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/24-pull-requests.png
 name: 24 Pull Requests
 description: "Project to promote open source collaboration during December"
 url: https://24pullrequests.com/api
