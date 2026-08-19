@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/24-pull-re
 name: 24 Pull Requests
 description: "Project to promote open source collaboration during December"
 url: https://24pullrequests.com/api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
