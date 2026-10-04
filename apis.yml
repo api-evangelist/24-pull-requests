@@ -39,7 +39,6 @@ apis:
   - name: 24 Pull Requests
     description: "Project to promote open source collaboration during December"
     humanURL: https://24pullrequests.com/api
-    baseURL: https://24pullrequests.com/api
     tags:
       - Development
     properties:
